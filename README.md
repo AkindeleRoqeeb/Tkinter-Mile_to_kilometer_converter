@@ -1,3 +1,3 @@
-# Tkinter Mile to kilometer converter.
+Tkinter Mile to kilometer converter.
 
 # maked easy to use...
